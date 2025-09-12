@@ -1,1 +1,2 @@
-#jó sok házifeladat kell nekünk!!!
+# jó sok házifeladat kell nekünk!!!
+# kérünkk egy ábrát, amit otthon megoldahttok
