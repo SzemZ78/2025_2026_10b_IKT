@@ -4,3 +4,4 @@ a = 13
 b = True
 c = "szöveg szerkesztes"
 d = 10
+i = "szöveg"
