@@ -2,4 +2,5 @@ print("órai munka")
 nev = "nagy az ára"
 a = 13
 b = True
-c = 10
+c = "szöveg szerkesztes"
+d = 10
