@@ -1,4 +1,4 @@
 print("órai munka")
-nev = "Kis Pista"
-a = 12
+nev = "nagy az ára"
+a = 13
 b = True
