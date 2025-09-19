@@ -5,3 +5,4 @@ print("órai gyakorlás")
 #asd
 #fzgvb
 #zzrh
+#git
