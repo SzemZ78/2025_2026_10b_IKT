@@ -5,3 +5,4 @@ b = True
 c = "szöveg szerkesztes"
 d = 10
 i = 12
+k = True
